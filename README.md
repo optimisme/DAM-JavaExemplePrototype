@@ -1,6 +1,6 @@
-# Exemple de Singleton #
+# Exemple de Prototype #
 
-En aquest projecte hi ha un exemple de Singleton a Java
+En aquest projecte hi ha un exemple de Prototype a Java
 
 ### Compilació i funcionament ###
 

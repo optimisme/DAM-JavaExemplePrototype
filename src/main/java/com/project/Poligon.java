@@ -1,3 +1,5 @@
+package com.project;
+
 public abstract class Poligon {
     
     public int x;
